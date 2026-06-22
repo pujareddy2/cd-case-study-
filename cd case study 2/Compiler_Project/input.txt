@@ -1,0 +1,25 @@
+a := 10
+b := 20
+
+if (a < b and b < 30) then
+    c := a + b
+else
+    c := a - b
+
+while (c < 50) do
+    c := c + 5
+
+x := (a + b) * 3 + c
+
+if (not (a < b)) then
+    if (c == 50) then
+        res := 1
+    else
+        res := 0
+
+while (i < 10) do
+    while (j < 5) do
+        sum := sum + i * j
+
+y := 2 + 3
+z := y

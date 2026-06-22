@@ -1,0 +1,13 @@
+x := (a + b) * 3 + c
+a := b + c * 50
+result := (x + y) / 2
+val := 10
+y := val * 5
+z := (val + y) * (val - y)
+complex := (a * b) + (c * d) / (e - f)
+nested := ((a + b) * c) - d
+prec1 := a + b * c
+prec2 := (a + b) * c
+assoc := a - b - c
+multiop := a + b - c * d / e
+simple := 100

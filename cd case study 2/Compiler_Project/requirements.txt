@@ -1,0 +1,2 @@
+# No external pip dependencies required.
+# Tkinter, subprocess, and os are part of the Python Standard Library.
